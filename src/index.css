@@ -1,1 +1,17 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+.sidebar img{
+  width:20px;
+
+
+}
+.sidebar .bottom-item{
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+*{
+  font-family: "Outfit";
+}
